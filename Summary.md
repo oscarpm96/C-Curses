@@ -1,4 +1,5 @@
-# Resumen 
+
+# :zap: Resumen 
 - Entonces, en esta sección, aprendió los conceptos básicos de C #. C # frente a .NET C # es un 
 lenguaje de programación, mientras que **.NET es un marco de trabajo**. Consiste en un entorno de tiempo de ejecución 
 (CLR) y una biblioteca de clases que usamos para crear aplicaciones. CLR Cuando compila una aplicación, 
